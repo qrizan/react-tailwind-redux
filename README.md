@@ -3,9 +3,6 @@
 #### data source  
 > src/utils/data.js
 
-#### image assets
- > src/assets/products
-
 #### running
 ``` 
 cd react-tailwind-redux
@@ -16,3 +13,5 @@ npm run dev
 #### screenshot
 ![Point Of Sales](screenshot/point-of-sales.png)
 
+#### demo
+https://react-tailwind-redux.vercel.app/
